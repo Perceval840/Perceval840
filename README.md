@@ -1,16 +1,14 @@
-## Hi there 👋
+## ¡Hola! 👋
 
-<!--
-**Perceval840/Perceval840** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+:computer: **Consultor en Ingeniería de Datos en Vinkos**  
+:pencil: **Especialista en Analítica en Big Data**  
+:pencil: **Especialista en Inteligencia Artificial**  
+:airplane: **Ex-Piloto Militar**  
+:family: **¡El papá más feliz del mundo!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Vías de contacto:
+- 💼 [LinkedIn](https://www.linkedin.com/in/jose-israel-perez-732623128/)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Perceval840/Perceval840)
