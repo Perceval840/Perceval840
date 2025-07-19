@@ -1,6 +1,6 @@
 ## ¡Hola! 👋
 
-### About me
+### Sobre mí
 
 :computer: **Consultor en Ingeniería de Datos en Vinkos**  
 :pencil: **Especialista en Analítica en Big Data**  
